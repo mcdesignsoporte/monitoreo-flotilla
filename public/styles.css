@@ -1,0 +1,22 @@
+body {
+    font-family: Arial;
+    text-align: center;
+}
+
+.kpis {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin: 20px;
+    font-size: 18px;
+}
+
+.card {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+}
+
+#map {
+    height: 400px;
+}
